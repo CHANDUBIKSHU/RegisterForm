@@ -1,13 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="ISO-8859-1">
-<title>Admin login page</title>
-<link rel="stylesheet" type="text/css" href="/static/css/Adminlogin.css">
-</head>
-<body>
+
 <h1>Well Come To Anonymous Student Feedback System</h1>
 <a href="home"><button type="submit">Home</button></a>
 <form action="Adminlogin" method="get">
